@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/LearnOpenGL/CMakeLists.txt
+  CMake does not need to re-run because E:/LearnOpenGL/OpenGlPro/CMakeFiles/generate.stamp is up-to-date.
+  glad.c
+  GLAD.vcxproj -> E:\LearnOpenGL\OpenGlPro\Debug\GLAD.lib

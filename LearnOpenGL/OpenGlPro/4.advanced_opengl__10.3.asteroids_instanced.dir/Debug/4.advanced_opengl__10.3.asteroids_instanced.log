@@ -1,0 +1,28 @@
+﻿  Building Custom Rule E:/LearnOpenGL/CMakeLists.txt
+  CMake does not need to re-run because E:/LearnOpenGL/OpenGlPro/CMakeFiles/generate.stamp is up-to-date.
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  asteroids_instanced.cpp
+e:\learnopengl\includes\learnopengl\filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: 参见“getenv”的声明
+e:\learnopengl\includes\learnopengl\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+e:\learnopengl\includes\learnopengl\shader.h(64): warning C4101: “success”: 未引用的局部变量
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(92): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(109): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(113): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(159): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(243): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(248): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\4.advanced_opengl\10.3.asteroids_instanced\asteroids_instanced.cpp(261): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4.advanced_opengl__10.3.asteroids_instanced.vcxproj -> E:\LearnOpenGL\bin\4.advanced_opengl\Debug\4.advanced_opengl__10.3.asteroids_instanced.exe

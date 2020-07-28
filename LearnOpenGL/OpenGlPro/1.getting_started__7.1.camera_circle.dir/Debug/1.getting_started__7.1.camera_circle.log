@@ -1,0 +1,19 @@
+﻿  Building Custom Rule E:/LearnOpenGL/CMakeLists.txt
+  CMake does not need to re-run because E:/LearnOpenGL/OpenGlPro/CMakeFiles/generate.stamp is up-to-date.
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  camera_circle.cpp
+e:\learnopengl\includes\learnopengl\filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: 参见“getenv”的声明
+e:\learnopengl\includes\learnopengl\shader_m.h(53): warning C4101: “infoLog”: 未引用的局部变量
+e:\learnopengl\includes\learnopengl\shader_m.h(52): warning C4101: “success”: 未引用的局部变量
+e:\learnopengl\src\1.getting_started\7.1.camera_circle\camera_circle.cpp(225): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\1.getting_started\7.1.camera_circle\camera_circle.cpp(226): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  1.getting_started__7.1.camera_circle.vcxproj -> E:\LearnOpenGL\bin\1.getting_started\Debug\1.getting_started__7.1.camera_circle.exe

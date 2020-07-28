@@ -1,0 +1,25 @@
+﻿  Building Custom Rule E:/LearnOpenGL/CMakeLists.txt
+  CMake does not need to re-run because E:/LearnOpenGL/OpenGlPro/CMakeFiles/generate.stamp is up-to-date.
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  colors.cpp
+e:\learnopengl\includes\learnopengl\filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: 参见“getenv”的声明
+e:\learnopengl\includes\learnopengl\shader_m.h(53): warning C4101: “infoLog”: 未引用的局部变量
+e:\learnopengl\includes\learnopengl\shader_m.h(52): warning C4101: “success”: 未引用的局部变量
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(262): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(263): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\2.lighting\1.colors\colors.cpp(275): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  2.lighting__1.colors.vcxproj -> E:\LearnOpenGL\bin\2.lighting\Debug\2.lighting__1.colors.exe

@@ -1,0 +1,33 @@
+﻿  Building Custom Rule E:/LearnOpenGL/CMakeLists.txt
+  CMake does not need to re-run because E:/LearnOpenGL/OpenGlPro/CMakeFiles/generate.stamp is up-to-date.
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  ibl_specular.cpp
+e:\learnopengl\includes\learnopengl\filesystem.h(23): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: 参见“getenv”的声明
+e:\learnopengl\includes\learnopengl\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+e:\learnopengl\includes\learnopengl\shader.h(64): warning C4101: “success”: 未引用的局部变量
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(280): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(281): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(346): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(448): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(475): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(476): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(480): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(481): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(483): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(484): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(493): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(517): warning C4305: “初始化”: 从“double”到“float”截断
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(558): warning C4018: “<”: 有符号/无符号不匹配
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(582): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(584): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+e:\learnopengl\src\6.pbr\2.2.1.ibl_specular\ibl_specular.cpp(586): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  6.pbr__2.2.1.ibl_specular.vcxproj -> E:\LearnOpenGL\bin\6.pbr\Debug\6.pbr__2.2.1.ibl_specular.exe
